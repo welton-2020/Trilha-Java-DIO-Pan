@@ -141,7 +141,6 @@ public class ExercicioControleDeFluxo{
 
         }
     }
-
     private static void switchNumero(){
         int numero = 5;
 

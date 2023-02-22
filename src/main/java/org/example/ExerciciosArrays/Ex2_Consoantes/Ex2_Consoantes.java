@@ -7,7 +7,6 @@ public class Ex2_Consoantes {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
-//        String[] vetor = {"a","b","c","d","e","f"};
         String[] consoantes = new String[6];
         int quantidadeConsoantes = 0;
         int count = 0;
@@ -25,7 +24,6 @@ public class Ex2_Consoantes {
                 consoantes[count] = letra;
                 quantidadeConsoantes++;
             }
-
             count++;
 
         } while (count < consoantes.length);

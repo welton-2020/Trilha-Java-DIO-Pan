@@ -7,7 +7,6 @@ public class Ex4_ParEImpar {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
-
         int quantidadeNumeros;
         int n = 0;
         int par = 0;
@@ -26,9 +25,8 @@ public class Ex4_ParEImpar {
             else impar++;
 
             soma = n + n;
-
             count++;
-        }while (count < quantidadeNumeros);
+        } while (count < quantidadeNumeros);
 
         System.out.println("Calculo: " + soma);
         System.out.println("Par: " + par);

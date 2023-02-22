@@ -14,9 +14,8 @@ public class Ex4_ArrayMultidimensional {
                 M[i][j] = random.nextInt(9);
             }
         }
-
         System.out.println("Matriz: ");
-        for (int [] linha : M ) {
+        for (int[] linha : M ) {
             for (int coluna : linha  ) {
                 System.out.print(coluna + " ");
             }

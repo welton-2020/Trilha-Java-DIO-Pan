@@ -28,7 +28,7 @@ public class Main {
         Emprestimo.calcular(1000, Emprestimo.getTresParcelas());
         Emprestimo.calcular(1000, 5);
 
-        // Quadrilátero
+        // Quadrilátero sem return
         System.out.println("\nExercicio Quadrilátero sem retorno");
         Quadrilatero.area(3);
         Quadrilatero.area(5d,5d);

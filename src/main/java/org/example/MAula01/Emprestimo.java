@@ -8,7 +8,6 @@ public class Emprestimo {
     public static int getTresParcelas(){
         return 3;
     }
-
     public static double getTaxaDuasParcelas(){
         return 0.3;
     }

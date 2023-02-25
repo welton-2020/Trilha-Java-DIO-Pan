@@ -1,7 +1,6 @@
 package org.example.MAula02;
 
 public class Quadrilatero {
-
     public static void area(double lado){
         System.out.println("Area do quadrado: " + lado * lado);
     }

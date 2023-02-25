@@ -40,7 +40,6 @@ public class Mensagens {
                 break;
         }
     }
-
     public static void mensagemBomDia(){
         System.out.println("Bom dia !");
     }

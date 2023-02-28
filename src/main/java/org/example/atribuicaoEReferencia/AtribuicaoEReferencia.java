@@ -1,4 +1,4 @@
-package org.example.AtribuicaoEReferencia;
+package org.example.atribuicaoEReferencia;
 
 public class AtribuicaoEReferencia {
     public static void main(String[] args) {

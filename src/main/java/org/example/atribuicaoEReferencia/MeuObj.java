@@ -1,4 +1,4 @@
-package org.example.AtribuicaoEReferencia;
+package org.example.atribuicaoEReferencia;
 
 public class MeuObj {
     Integer num;

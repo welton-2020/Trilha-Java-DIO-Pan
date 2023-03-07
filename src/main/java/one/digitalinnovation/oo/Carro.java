@@ -17,7 +17,7 @@ public class Carro {
 
     public void calularValorTotal(double valorCombustivel){
         int res = (int) (capacidadeDoTanque * valorCombustivel);
-        System.out.print("Valor total para encher o tanque foi de: R$ " + res);
+        System.out.print("Valor total para encher o tanque é de: R$ " + res);
     }
 
     public String getCor() {

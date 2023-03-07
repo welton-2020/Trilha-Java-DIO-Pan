@@ -4,7 +4,6 @@ public class Calculadora implements OperacaoMatematica{
 
     public static void main(String[] args) {
 
-
     }
 
     @Override
